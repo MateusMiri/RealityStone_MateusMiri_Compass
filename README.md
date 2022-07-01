@@ -82,7 +82,7 @@ E-mail: mateusmiri19@gmail.com
 [Compass.uol](https://compass.uol/)
 
 ## Licença
-### Open Source
+[MIT](https://choosealicense.com/licenses/mit/) - Copyright © 2022 Mateus Miri  
 
 ## Agradecimentos
 Agradeço à toda equipe Compass pelo apoio no compartilhamento e em todas as partes do processo do estágio e programa de bolsas.  
