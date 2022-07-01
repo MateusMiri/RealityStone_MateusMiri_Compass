@@ -77,8 +77,12 @@ E-mail: mateusmiri19@gmail.com
 [Git](https://git-scm.com/doc)  
 [Ruby](https://www.ruby-lang.org/pt/documentation/)  
 [RSpec](https://rspec.info/documentation/)  
-[RSpec](https://relishapp.com/rspec/docs/gettingstarted)
+[RSpec - Relish](https://relishapp.com/rspec/docs/)  
 [Ruby Koans](http://rubykoans.com/)  
+[Compass.uol](https://compass.uol/)
+
+## Licença
+### Open Source
 
 ## Agradecimentos
 Agradeço à toda equipe Compass pelo apoio no compartilhamento e em todas as partes do processo do estágio e programa de bolsas.  
