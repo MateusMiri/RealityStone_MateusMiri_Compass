@@ -86,4 +86,5 @@ E-mail: mateusmiri19@gmail.com
 
 ## Agradecimentos
 Agradeço à toda equipe Compass pelo apoio no compartilhamento e em todas as partes do processo do estágio e programa de bolsas.  
+Agradeço, em especial, aos colegas Matheus Maschio, Luiza Tonatto e Daniel Merib pela ajuda e troca de conhecimentos durante a Sprint.  
 Agradeço à toda turma do Programa de Bolsas, pela constante troca de ideias e ajuda durante o estágio.
